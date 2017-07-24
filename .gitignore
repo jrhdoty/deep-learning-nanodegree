@@ -1,1 +1,6 @@
 .DS_Store
+.ipynb_checkpoints
+*.zip
+.floyd*
+__pycache__
+preprocess.p
